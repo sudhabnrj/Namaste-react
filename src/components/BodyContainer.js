@@ -19,7 +19,7 @@ const BodyContainer = () => {
         //console.log(featureList);
     };
 
-    useEffect(()=> {
+    useEffect(()=> { 
         fetchData();
     }, []);
 
