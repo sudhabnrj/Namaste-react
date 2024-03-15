@@ -5,7 +5,7 @@ import Shimmer from './Shimmer.js';
 // import Search from './Search.js';
 
 
-const BodyContainer = () => {
+const BodyContainer = () =>{
 
    const [resturantList, setResturantList] = useState([]);
 
